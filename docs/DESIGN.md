@@ -58,4 +58,4 @@ A 19-note melody stored in `MELODY_NOTES[]` with per-note durations in `MELODY_M
 
 ## Diagram
 
-![Breadboard layout](assets/png/auto_watering_breadboard_realistic.png)
+![Breadboard layout](../assets/png/auto_watering_breadboard_realistic.png)
